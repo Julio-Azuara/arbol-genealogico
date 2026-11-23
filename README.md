@@ -3,7 +3,8 @@
 Sitio estático publicado con GitHub Pages.
 
 - `con-fotos.html`: cada persona tiene un espacio para su foto.
-- `sin-fotos.html`: placas tipográficas, sin fotos.
+- `index.html` (página principal): versión sin fotos, con placas tipográficas.
+- `versiones.html`: para comparar las dos versiones.
 - `datos/familia.json`: la información de la familia. El sitio la lee al abrirse.
 - `fotos/`: fotos de cada persona, nombradas con su id (ver `fotos/LEEME.md`).
 
